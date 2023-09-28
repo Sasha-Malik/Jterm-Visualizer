@@ -2959,7 +2959,7 @@ import folium
 import openai  # Import the openai library
 
 # # # Define your GPT API key
-# api_key = "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"  # Replace with your actual API key
+# api_key = ""  # Replace with your actual API key
 
 # # Function to get latitude and longitude from the GPT API
 # def get_lat_long_from_city_name(city_name):
